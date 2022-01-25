@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    /*  margin-left: 10px; */
+    margin-bottom: 10px; 
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px lightgray;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+.form{
+    text-align: center;
+}
